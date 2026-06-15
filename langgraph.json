@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "math_agents": "./multi_agent_system.py:main_agent"
+  },
+  "env": {
+    "TAVILY_API_KEY": "not_needed",
+    "OPENAI_API_KEY": "not_needed"
+  }
+}
